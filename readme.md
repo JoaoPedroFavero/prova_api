@@ -45,5 +45,24 @@ npm install
 | PUT | `/produtos/atualizar/:id` | Atualiza produto |
 | DELETE | `/produtos/excluir/:id` | Deleta produto |
 
+## INPUT de CATEGORIAS
+```json
+    {
+        "nome": ""
+    }
+```
+
+## INPUT de PRODUTOS
+```json
+    {
+        "nome": "", 
+        "descricao": "", 
+        "preco": "", 
+        "qtd_estoque": "", 
+        "qtd_min_estoque": "", 
+        "id_categoria": ""
+    }
+```
+
 ## DER
-![DER]("C:\Users\joao_p_favero.EDU_FIESC\Documents\T DESI\prova_api\backend\src\db\DER_prova_api.png")
+![DER_prova_api](C:\Users\joao_p_favero.EDU_FIESC\Documents\T DESI\prova_api\backend\src\db\DER_prova_api.png)
