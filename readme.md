@@ -65,4 +65,4 @@ npm install
 ```
 
 ## DER
-![DER_prova_api](C:\Users\joao_p_favero.EDU_FIESC\Documents\T DESI\prova_api\backend\src\db\DER_prova_api.png)
+![DER_prova_api](DER_prova_api.png)
